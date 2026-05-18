@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+data/
+crops/
+debug_price_zones/
+runs/
+
+# Output files
+*.csv
+*.xlsx
+
+# Models and weights
+*.pt
+*.onnx
+*.engine
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# System files
+.DS_Store
+Thumbs.db
