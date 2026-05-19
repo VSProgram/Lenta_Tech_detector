@@ -1,1 +1,0 @@
-# Lenta_Tech_detector
